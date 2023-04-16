@@ -1,0 +1,17 @@
+{
+  "name": "openx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Paweł Steczkiewicz",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

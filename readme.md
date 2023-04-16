@@ -1,0 +1,1 @@
+npm install to install dependencies and npm test to run tests
